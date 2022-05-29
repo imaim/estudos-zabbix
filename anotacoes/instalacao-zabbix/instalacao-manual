@@ -13,4 +13,5 @@
      yum install zabbix-get
 
 
- 
+ ## doc zabbix (metricas de items)
+   https://www.zabbix.com/documentation/4.0/pt/manual/config/items/item

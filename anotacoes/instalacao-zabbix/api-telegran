@@ -1,5 +1,7 @@
  ex teste com chave do bot5588826045 (pessoal)
  chave 5588826045:AAGxjUHM8DPUxwTsFRRqElBts7kSM9Mn1-Q 
+
+ Revela ids de grupo e usuarios dos grupos
     curl "https://api.telegram.org/bot5588826045:AAGxjUHM8DPUxwTsFRRqElBts7kSM9Mn1-Q/getUpdates"
 
  install python3 e pip 
