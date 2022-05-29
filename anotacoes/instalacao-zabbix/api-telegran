@@ -1,0 +1,8 @@
+ ex teste com chave do bot5588826045 (pessoal)
+ chave 5588826045:AAGxjUHM8DPUxwTsFRRqElBts7kSM9Mn1-Q 
+    curl "https://api.telegram.org/bot5588826045:AAGxjUHM8DPUxwTsFRRqElBts7kSM9Mn1-Q/getUpdates"
+
+ install python3 e pip 
+ ##
+ install pacotes da api 
+    pip install pyTelegramBotAPI

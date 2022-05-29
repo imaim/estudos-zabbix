@@ -3,3 +3,14 @@
 
 ## teste zabbix 6
 # olracle linux 8
+## sempre adicionar o repositorio oficial ao dnf
+## - instalar o agent 
+   - yum install zabbix-agent
+   startar e habilita-lo 
+   systemctl start zabbix-agent
+
+    ## instalar debug por comando zabbix_get
+     yum install zabbix-get
+
+
+ 
